@@ -1,0 +1,24 @@
+{
+  "number": 75,
+  "product_id": "JLZ-EDU-SK-061",
+  "chinese_name": "劳动用工合规检查",
+  "english_name": "Employment Compliance Checker",
+  "repository_name": "edu-employment-compliance-checker",
+  "product_type": "Skill",
+  "category": "06 人力组织中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-employment-compliance-checker-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "用工地区、岗位、合同类型、工时安排、薪酬结构和现有制度摘要",
+  "main_output": "风险检查表、待核实法规项、证据需求、整改优先级和升级建议",
+  "package_entries": [
+    "edu-employment-compliance-checker/SKILL.md",
+    "edu-employment-compliance-checker/references/DOMAIN_GUIDE.md",
+    "edu-employment-compliance-checker/references/EXAMPLES.md",
+    "edu-employment-compliance-checker/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

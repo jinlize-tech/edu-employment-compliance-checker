@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-061",
+  "repository_name": "edu-employment-compliance-checker",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-employment-compliance-checker-v1.0.0.zip",
+  "sha256": "F365232A06D1565C838A7FCA5A18A26A8F7BAD99BD20FC0A9F2D4C2412EE0E00",
+  "bytes": 4946,
+  "entries": [
+    "edu-employment-compliance-checker/SKILL.md",
+    "edu-employment-compliance-checker/references/DOMAIN_GUIDE.md",
+    "edu-employment-compliance-checker/references/EXAMPLES.md",
+    "edu-employment-compliance-checker/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:42:43.6043756+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
