@@ -6,19 +6,37 @@
   "repository_name": "edu-employment-compliance-checker",
   "product_type": "Skill",
   "category": "06 人力组织中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-employment-compliance-checker-v1.0.0.zip",
+  "baseline_commit": "9617f0f51f7d8a21f338a0a2030dd5b3fc7f4890",
+  "package_path": "dist/edu-employment-compliance-checker-v1.0.1.zip",
+  "previous_package_path": "dist/edu-employment-compliance-checker-v1.0.0.zip",
+  "previous_package_sha256": "F365232A06D1565C838A7FCA5A18A26A8F7BAD99BD20FC0A9F2D4C2412EE0E00",
   "calculator": false,
   "core_input": "用工地区、岗位、合同类型、工时安排、薪酬结构和现有制度摘要",
   "main_output": "风险检查表、待核实法规项、证据需求、整改优先级和升级建议",
+  "main_output_fields": [
+    "风险检查表",
+    "待核实法规项",
+    "证据需求",
+    "整改优先级和升级建议"
+  ],
   "package_entries": [
     "edu-employment-compliance-checker/SKILL.md",
     "edu-employment-compliance-checker/references/DOMAIN_GUIDE.md",
     "edu-employment-compliance-checker/references/EXAMPLES.md",
-    "edu-employment-compliance-checker/templates/OUTPUT_TEMPLATE.md"
+    "edu-employment-compliance-checker/templates/OUTPUT_TEMPLATE.md",
+    "edu-employment-compliance-checker/README.md",
+    "edu-employment-compliance-checker/USAGE.md",
+    "edu-employment-compliance-checker/LICENSE",
+    "edu-employment-compliance-checker/THIRD_PARTY_NOTICES.md",
+    "edu-employment-compliance-checker/scripts/validate_input.js"
   ]
 }
